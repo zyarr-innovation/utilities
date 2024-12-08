@@ -1,0 +1,4373 @@
+[
+    {
+        "id": 1,
+        "question": "which of the following is a primary function of body systems working together",
+        "options": [
+            "Providing oxygen only",
+            "Protecting the body from sunlight",
+            "Maintaining homeostasis and enabling survival",
+            "Producing hormones exclusively"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 2,
+        "question": "why does the number of bones in the human body decrease from around 270 at birth to about 206 in adulthood",
+        "options": [
+            "Some bones dissolve over time",
+            "Bones fuse as the body matures",
+            "Bones shrink during growth",
+            "Cartilage replaces certain bones"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 3,
+        "question": "which muscle is considered the strongest relative to its size",
+        "options": [
+            "Heart",
+            "Tongue",
+            "Gluteus maximus",
+            "Biceps brachii"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 4,
+        "question": "approximately how many times does the human heart beat in a single day",
+        "options": [
+            "50,000",
+            "75,000",
+            "100,000",
+            "125,000"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 5,
+        "question": "on average, how many breaths does a person take in a day",
+        "options": [
+            "12,000",
+            "15,000",
+            "22,000",
+            "30,000"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 6,
+        "question": "what is the approximate length of the entire digestive tract",
+        "options": [
+            "5 meters",
+            "7 meters",
+            "9 meters",
+            "12 meters"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 7,
+        "question": "about how many neurons are present in the human brain",
+        "options": [
+            "50 billion",
+            "86 billion",
+            "100 billion",
+            "120 billion"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 8,
+        "question": "how many different hormones are produced in the human body",
+        "options": [
+            "Over 30",
+            "Over 40",
+            "Over 50",
+            "Over 60"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 9,
+        "question": "what unique ability does the immune system have when encountering pathogens",
+        "options": [
+            "It can mutate to form new white blood cells",
+            "It can eliminate all pathogens permanently",
+            "It remembers pathogens and responds more effectively in future encounters",
+            "It duplicates lymph nodes to increase defense"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 10,
+        "question": "how much blood do the kidneys filter daily to produce urine",
+        "options": [
+            "100 liters",
+            "150 liters",
+            "180 liters",
+            "200 liters"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 11,
+        "question": "what is the approximate surface area of human skin",
+        "options": [
+            "1 square meter",
+            "1.5 square meters",
+            "2 square meters",
+            "3 square meters"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 12,
+        "question": "What is the primary function of the heart in the human body?",
+        "options": [
+            "To filter blood and remove waste",
+            "To pump blood, providing oxygen and nutrients to the body",
+            "To produce enzymes for digestion",
+            "To regulate body temperature"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 13,
+        "question": "Which of the following processes is primarily carried out by the lungs?",
+        "options": [
+            "Detoxification of chemicals",
+            "Gas exchange, oxygenating blood and removing carbon dioxide",
+            "Absorption of nutrients from digested food",
+            "Production of bile for digestion"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 14,
+        "question": "What is one of the primary functions of the liver?",
+        "options": [
+            "Breaking down food using gastric acids",
+            "Oxygenating blood and removing carbon dioxide",
+            "Processing nutrients and detoxifying chemicals",
+            "Regulating electrolytes and fluid balance"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 15,
+        "question": "The kidneys play a vital role in which of the following?",
+        "options": [
+            "Absorbing nutrients into the bloodstream",
+            "Filtering blood, regulating electrolytes, and maintaining fluid balance",
+            "Producing bile and detoxifying chemicals",
+            "Breaking down food for digestion"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 16,
+        "question": "What is the main role of the stomach in the digestive system?",
+        "options": [
+            "Absorbing water and forming solid waste",
+            "Producing bile for fat digestion",
+            "Breaking down food with gastric acids and enzymes",
+            "Detoxifying chemicals from the bloodstream"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 17,
+        "question": "What function does the small intestine primarily serve?",
+        "options": [
+            "Breaking down food using gastric acids",
+            "Filtering blood to remove waste",
+            "Absorbing nutrients from digested food into the bloodstream",
+            "Absorbing water and salts"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 18,
+        "question": "Which is a key function of the large intestine?",
+        "options": [
+            "Facilitating gas exchange in the blood",
+            "Absorbing water and salts, forming solid waste",
+            "Producing bile to aid in digestion",
+            "Filtering toxins from the bloodstream"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "question": "What is one of the key functions of the brain?",
+        "options": [
+            "Pumping blood throughout the body",
+            "Protecting internal organs and regulating temperature",
+            "Controlling bodily functions and enabling cognition",
+            "Absorbing nutrients into the bloodstream"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 20,
+        "question": "Which of the following is a primary function of the skin?",
+        "options": [
+            "Breaking down food using gastric acids",
+            "Regulating temperature and protecting internal organs",
+            "Filtering blood to maintain fluid balance",
+            "Enabling cognition and emotional processing"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 21,
+        "question": "What is the primary function of muscles in the human body?",
+        "options": [
+            "Facilitating sensory perception",
+            "Enabling movement by contracting and relaxing",
+            "Absorbing nutrients into the bloodstream",
+            "Detoxifying chemicals and producing enzymes"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 22,
+        "question": "Nutrients absorbed in the small intestine enter the bloodstream for distribution to cells. What type of blood vessel primarily carries these nutrients to the liver for processing?",
+        "options": [
+            "Arteries",
+            "Veins",
+            "Capillaries",
+            "Lymph vessels"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "question": "What is the primary site of gas exchange between the lungs and the bloodstream?",
+        "options": [
+            "Bronchioles",
+            "Alveoli",
+            "Trachea",
+            "Pulmonary arteries"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 24,
+        "question": "What type of neuron transmits signals from the brain to muscles, enabling movement?",
+        "options": [
+            "Sensory neurons",
+            "Motor neurons",
+            "Interneurons",
+            "Sympathetic neurons"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 25,
+        "question": "Which hormone is primarily responsible for regulating the menstrual cycle in females?",
+        "options": [
+            "Testosterone",
+            "Insulin",
+            "Estrogen",
+            "Thyroxine"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 26,
+        "question": "What is the term for the point where a muscle is attached to a bone?",
+        "options": [
+            "Ligament",
+            "Tendon",
+            "Cartilage",
+            "Synovial joint"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 27,
+        "question": "Which type of immune cell is transported through the blood to combat pathogens?",
+        "options": [
+            "Red blood cells",
+            "White blood cells",
+            "Platelets",
+            "Plasma cells"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "question": "How does the skin primarily contribute to the immune system?",
+        "options": [
+            "By producing antibodies",
+            "By acting as a physical barrier",
+            "By generating white blood cells",
+            "By releasing hormones"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 29,
+        "question": "Which hormone regulates kidney function by controlling water reabsorption?",
+        "options": [
+            "Adrenaline",
+            "Insulin",
+            "Antidiuretic hormone (ADH)",
+            "Glucagon"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 30,
+        "question": "What is the enteric nervous system's role in digestion?",
+        "options": [
+            "Regulates blood flow to the intestines",
+            "Controls voluntary muscle movement in digestion",
+            "Independently manages digestive processes",
+            "Signals the brain to stop digestion"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 31,
+        "question": "What is the primary function of the lymphatic system in relation to the circulatory system?",
+        "options": [
+            "Circulating oxygenated blood",
+            "Removing carbon dioxide from tissues",
+            "Draining excess fluid and returning it to the bloodstream",
+            "Producing red blood cells"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 32,
+        "question": "What is the primary function of the skeletal system?",
+        "options": [
+            "Producing enzymes",
+            "Storing fat",
+            "Providing support and facilitating movement",
+            "Regulating body temperature"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 33,
+        "question": "What does bone marrow primarily produce?",
+        "options": [
+            "Hormones",
+            "Blood cells",
+            "Enzymes",
+            "Vitamins"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 34,
+        "question": "Approximately what percentage of human bones is water?",
+        "options": [
+            "25%",
+            "50%",
+            "75%",
+            "90%"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 35,
+        "question": "Which component makes up 30% of bone and provides flexibility?",
+        "options": [
+            "Mineral salts",
+            "Water",
+            "Collagen",
+            "Enamel"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 36,
+        "question": "What is the hardest substance in the human body?",
+        "options": [
+            "Femur",
+            "Tooth enamel",
+            "Bone",
+            "Cartilage"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 37,
+        "question": "Which bone is the strongest and longest in the human body?",
+        "options": [
+            "Skull",
+            "Femur",
+            "Spine",
+            "Tibia"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 38,
+        "question": "How much compressive force can a single cubic inch of bone withstand?",
+        "options": [
+            "5,000 pounds",
+            "10,000 pounds",
+            "19,000 pounds",
+            "25,000 pounds"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 39,
+        "question": "What percentage of total body weight do bones constitute?",
+        "options": [
+            "10%",
+            "15%",
+            "20%",
+            "25%"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 40,
+        "question": "How often does the human skeleton renew itself?",
+        "options": [
+            "Every 5 years",
+            "Every 10 years",
+            "Every 15 years",
+            "Every 20 years"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 41,
+        "question": "What type of exercise is most effective at increasing bone density?",
+        "options": [
+            "Swimming",
+            "Weight-bearing exercises",
+            "Yoga",
+            "Cycling"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 42,
+        "question": "What happens to astronauts’ bone mass in space?",
+        "options": [
+            "It increases by 1% per month",
+            "It decreases by 1% per month",
+            "It remains unchanged",
+            "It doubles"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 43,
+        "question": "Which is the only bone in the human body not connected to any other bone?",
+        "options": [
+            "Patella",
+            "Hyoid",
+            "Scapula",
+            "Auditory ossicles"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 44,
+        "question": "What type of bone is the patella classified as?",
+        "options": [
+            "Flat bone",
+            "Long bone",
+            "Sesamoid bone",
+            "Irregular bone"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 45,
+        "question": "How many bony elements does the skull have at birth?",
+        "options": [
+            "22",
+            "33",
+            "44",
+            "56"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 46,
+        "question": "What is the function of the triangular shape of the scapula?",
+        "options": [
+            "Protecting internal organs",
+            "Aiding arm movements and flexibility",
+            "Supporting the rib cage",
+            "Absorbing shock"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 47,
+        "question": "Which bones are the smallest in the human body?",
+        "options": [
+            "Phalanges",
+            "Auditory ossicles",
+            "Carpals",
+            "Tarsals"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 48,
+        "question": "How many pounds does bone marrow weigh in adults?",
+        "options": [
+            "2-4 pounds",
+            "4-6 pounds",
+            "6-8 pounds",
+            "8-10 pounds"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 49,
+        "question": "What change occurs in bone marrow as people age?",
+        "options": [
+            "It becomes more fibrous",
+            "It changes from red to yellow",
+            "It decreases in size",
+            "It increases blood cell production"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 50,
+        "question": "What condition can be treated using bone marrow transplants?",
+        "options": [
+            "Arthritis",
+            "Leukemia",
+            "Osteoporosis",
+            "Anemia"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 51,
+        "question": "How many times does the rib cage expand and contract daily?",
+        "options": [
+            "1,000",
+            "5,000",
+            "10,000",
+            "20,000"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 52,
+        "question": "How much compressive force can the skull withstand?",
+        "options": [
+            "500 pounds",
+            "1,000 pounds",
+            "5,000 pounds",
+            "10,000 pounds"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 53,
+        "question": "What is the function of the curves in the vertebral column?",
+        "options": [
+            "Protecting organs",
+            "Enhancing strength and flexibility",
+            "Supporting the skull",
+            "Aiding muscle attachment"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 54,
+        "question": "What property allows bones to generate small amounts of electricity?",
+        "options": [
+            "Piezoelectricity",
+            "Conductivity",
+            "Magnetism",
+            "Capacitance"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 55,
+        "question": "What are Haversian canals?",
+        "options": [
+            "Networks of neurons in bones",
+            "Microscopic channels for blood vessels and nerves",
+            "Regions of compact bone",
+            "Hormone-producing glands in bones"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 56,
+        "question": "What hormone produced by bones helps regulate blood sugar?",
+        "options": [
+            "Osteocalcin",
+            "Calcitonin",
+            "Insulin",
+            "Parathyroid hormone"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 57,
+        "question": "What has the human skeleton evolved to support?",
+        "options": [
+            "Quadrupedal locomotion",
+            "Flight",
+            "Bipedal locomotion",
+            "Aquatic movement"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 58,
+        "question": "How many muscle attachments do bones have?",
+        "options": [
+            "Over 400",
+            "Over 500",
+            "Over 600",
+            "Over 700"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 59,
+        "question": "What field has been inspired by the structure of bones?",
+        "options": [
+            "Robotics",
+            "Biomimicry in engineering",
+            "Artificial intelligence",
+            "Medicine"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 60,
+        "question": "Which type of muscle is responsible for involuntary functions like digestion?",
+        "options": [
+            "Skeletal muscle",
+            "Cardiac muscle",
+            "Smooth muscle",
+            "Voluntary muscle"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 61,
+        "question": "What system controls muscle contraction and relaxation?",
+        "options": [
+            "Digestive system",
+            "Endocrine system",
+            "Nervous system",
+            "Respiratory system"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 62,
+        "question": "How many muscles are there in the human body?",
+        "options": [
+            "Over 200",
+            "Over 400",
+            "Over 600",
+            "Over 800"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 63,
+        "question": "Muscles account for approximately what percentage of total body weight?",
+        "options": [
+            "20%",
+            "30%",
+            "40%",
+            "50%"
+        ]
+    },
+    {
+        "id": 64,
+        "question": "What cellular organelle is abundant in muscle tissue and produces energy for contractions?",
+        "options": [
+            "Nucleus",
+            "Mitochondria",
+            "Ribosome",
+            "Golgi apparatus"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 65,
+        "question": "What is the strongest muscle relative to its size?",
+        "options": [
+            "Biceps brachii",
+            "Masseter",
+            "Gluteus maximus",
+            "Deltoid"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 66,
+        "question": "Which muscle is the largest in the human body?",
+        "options": [
+            "Quadriceps",
+            "Pectoralis major",
+            "Gluteus maximus",
+            "Hamstrings"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 67,
+        "question": "How many times does the heart beat on average during a lifetime?",
+        "options": [
+            "1.5 billion",
+            "2 billion",
+            "2.5 billion",
+            "3 billion"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 68,
+        "question": "What is the process called when muscles increase in size due to resistance training?",
+        "options": [
+            "Atrophy",
+            "Hypertrophy",
+            "Metaplasia",
+            "Hyperplasia"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 69,
+        "question": "What phenomenon improves performance through repeated training?",
+        "options": [
+            "Reflex arc",
+            "Muscle memory",
+            "Neural adaptation",
+            "Synaptic plasticity"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 70,
+        "question": "What ability allows muscles to repair themselves after injury?",
+        "options": [
+            "Regeneration of new muscle fibers",
+            "Formation of scar tissue",
+            "Mitosis in muscle cells",
+            "Enhanced blood flow"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 71,
+        "question": "Which is the smallest muscle in the human body?",
+        "options": [
+            "Diaphragm",
+            "Stapedius",
+            "Tensor tympani",
+            "Obliquus capitis superior"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 72,
+        "question": "What is the primary function of the diaphragm?",
+        "options": [
+            "Maintaining posture",
+            "Pumping blood",
+            "Enabling breathing",
+            "Protecting the lungs"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 73,
+        "question": "How many muscles make up the human tongue?",
+        "options": [
+            "4",
+            "6",
+            "8",
+            "10"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 74,
+        "question": "What substance do muscles store and use as fuel during activity?",
+        "options": [
+            "Protein",
+            "Glycogen",
+            "Fatty acids",
+            "Lactic acid"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 75,
+        "question": "What byproduct is produced by muscles during intense exercise with low oxygen levels?",
+        "options": [
+            "Carbon dioxide",
+            "Lactic acid",
+            "Uric acid",
+            "Ketones"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 76,
+        "question": "Why does breathing rate increase during exercise?",
+        "options": [
+            "To cool the body",
+            "To supply oxygen to muscles",
+            "To reduce heart rate",
+            "To release carbon dioxide"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 77,
+        "question": "Which muscles are the most active in the human body?",
+        "options": [
+            "Heart muscles",
+            "Tongue muscles",
+            "Eye muscles",
+            "Leg muscles"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 78,
+        "question": "What term refers to a muscle's ability to sustain repeated contractions over time?",
+        "options": [
+            "Muscle strength",
+            "Muscle endurance",
+            "Muscle flexibility",
+            "Muscle coordination"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 79,
+        "question": "How do muscles work to create smooth movements?",
+        "options": [
+            "Individually",
+            "In pairs",
+            "Randomly",
+            "Sequentially"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 80,
+        "question": "Where are smooth muscles found?",
+        "options": [
+            "Attached to bones",
+            "Inside hollow organs",
+            "Surrounding joints",
+            "Beneath the skin"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 81,
+        "question": "Which group of muscles is responsible for extending the knee?",
+        "options": [
+            "Hamstrings",
+            "Quadriceps",
+            "Calf muscles",
+            "Gluteal muscles"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 82,
+        "question": "Which type of muscle is under conscious control?",
+        "options": [
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Skeletal muscle",
+            "Involuntary muscle"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 83,
+        "question": "What do muscles generate as a byproduct of contraction?",
+        "options": [
+            "Oxygen",
+            "Energy",
+            "Heat",
+            "Carbon dioxide"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 84,
+        "question": "Which muscles support organs in the pelvis?",
+        "options": [
+            "Abdominal muscles",
+            "Pelvic floor muscles",
+            "Gluteal muscles",
+            "Lumbar muscles"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 85,
+        "question": "What is a common cause of muscle cramps?",
+        "options": [
+            "High protein levels",
+            "Dehydration",
+            "Excess oxygen",
+            "Fatigue"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 86,
+        "question": "What field has been inspired by muscle structure and function?",
+        "options": [
+            "Biotechnology",
+            "Biomimicry",
+            "Bionics",
+            "Biochemistry"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 87,
+        "question": "What quality demonstrates the evolutionary sophistication of muscles?",
+        "options": [
+            "Their size",
+            "Their adaptability",
+            "Their color",
+            "Their location"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 88,
+        "question": "What is the primary function of the circulatory system?",
+        "options": [
+            "Transporting blood, oxygen, and nutrients while removing waste",
+            "Producing hormones and enzymes",
+            "Regulating digestion",
+            "Protecting against infections"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 89,
+        "question": "Approximately how long are the blood vessels in the human body?",
+        "options": [
+            "6,000 miles",
+            "60,000 miles",
+            "600,000 miles",
+            "6 million miles"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 90,
+        "question": "How many times does the heart beat in an average lifespan?",
+        "options": [
+            "1 billion",
+            "2 billion",
+            "3 billion",
+            "4 billion"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 91,
+        "question": "How much blood does the heart pump in a lifetime?",
+        "options": [
+            "500,000 barrels",
+            "1 million barrels",
+            "1.5 million barrels",
+            "2 million barrels"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 92,
+        "question": "What percentage of blood is plasma?",
+        "options": [
+            "25%",
+            "45%",
+            "55%",
+            "65%"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 93,
+        "question": "How far do red blood cells travel in their lifespan of 120 days?",
+        "options": [
+            "5,000 miles",
+            "8,000 miles",
+            "12,000 miles",
+            "20,000 miles"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 94,
+        "question": "What is the primary function of blood?",
+        "options": [
+            "Absorb oxygen from the air",
+            "Transport oxygen and nutrients and remove waste products",
+            "Maintain body temperature",
+            "Support immune responses"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 95,
+        "question": "Which chamber of the heart is the strongest?",
+        "options": [
+            "Right atrium",
+            "Left atrium",
+            "Right ventricle",
+            "Left ventricle"
+        ],
+        "answer": 4
+    },
+    {
+        "id": 96,
+        "question": "What generates the heart’s electrical impulse?",
+        "options": [
+            "Aorta",
+            "Sinoatrial (SA) node",
+            "Pulmonary artery",
+            "Left ventricle"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 97,
+        "question": "What is the daily energy output of the heart equivalent to?",
+        "options": [
+            "Powering a light bulb for 24 hours",
+            "Driving a truck for 20 miles",
+            "Running a marathon",
+            "Heating a home for one day"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 98,
+        "question": "What does the right side of the heart pump?",
+        "options": [
+            "Oxygenated blood to the body",
+            "Deoxygenated blood to the lungs",
+            "Blood to the brain",
+            "Blood to the kidneys"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 99,
+        "question": "What is the largest artery in the body?",
+        "options": [
+            "Pulmonary artery",
+            "Carotid artery",
+            "Aorta",
+            "Femoral artery"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 100,
+        "question": "What is unique about capillaries?",
+        "options": [
+            "They are the largest blood vessels.",
+            "Red blood cells pass through them single file.",
+            "They only transport oxygenated blooD)",
+            "They are found only in the lungs."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 101,
+        "question": "What feature helps veins in the legs return blood to the heart?",
+        "options": [
+            "Larger diameters",
+            "Valves",
+            "Muscle contractions",
+            "Elastic walls"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 102,
+        "question": "What are the two main circulations in the circulatory system?",
+        "options": [
+            "Pulmonary and systemic",
+            "Arterial and venous",
+            "Atrial and ventricular",
+            "Oxygenated and deoxygenated"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 103,
+        "question": "What causes the \"lub-dub\" sound of the heart?",
+        "options": [
+            "Heart chambers contracting",
+            "Blood flowing through arteries",
+            "Closing of heart valves",
+            "Electrical impulses in the SA node"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 104,
+        "question": "How does the circulatory system regulate body temperature?",
+        "options": [
+            "By altering the number of red blood cells",
+            "By adjusting blood flow to the skin",
+            "By increasing plasma levels",
+            "By slowing down the heart rate"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 105,
+        "question": "What can blood vessels do to regulate blood pressure?",
+        "options": [
+            "Dilate and constrict",
+            "Produce hormones",
+            "Absorb plasma",
+            "Increase their diameter permanently"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 106,
+        "question": "What is coronary artery disease caused by?",
+        "options": [
+            "Weak heart muscles",
+            "Plaque buildup in the coronary arteries",
+            "High white blood cell count",
+            "Narrowing of veins"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 107,
+        "question": "How does exercise improve cardiovascular health?",
+        "options": [
+            "By increasing blood sugar levels",
+            "By weakening blood vessel walls",
+            "By strengthening the heart and improving circulation",
+            "By reducing oxygen levels in the blood"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 108,
+        "question": "What is the heart rate of a newborn baby?",
+        "options": [
+            "50-100 beats per minute",
+            "80-120 beats per minute",
+            "120-160 beats per minute",
+            "160-200 beats per minute"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 109,
+        "question": "What percentage of body weight is accounted for by blood?",
+        "options": [
+            "5-6%",
+            "7-8%",
+            "9-10%",
+            "10-12%"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 110,
+        "question": "What else does the circulatory system transport besides oxygen and nutrients?",
+        "options": [
+            "Digestive enzymes",
+            "Hormones",
+            "White blood cells",
+            "Proteins"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 111,
+        "question": "How does the circulatory system adapt to physical activity?",
+        "options": [
+            "By reducing blood flow to the muscles",
+            "By dilating blood vessels to increase oxygen delivery",
+            "By increasing plasma production",
+            "By producing more red blood cells instantly"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 112,
+        "question": "What are the two main components of the nervous system?",
+        "options": [
+            "Central Nervous System and Peripheral Nervous System",
+            "Brain and Heart",
+            "Muscles and Spinal Cord",
+            "Autonomic and Somatic Systems"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 113,
+        "question": "What is the primary function of the spinal cord in the nervous system?",
+        "options": [
+            "Store memories",
+            "Transmit signals between the brain and the body",
+            "Regulate emotions",
+            "Produce neurotransmitters"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 114,
+        "question": "Approximately how much energy does the brain consume?",
+        "options": [
+            "10%",
+            "15%",
+            "20%",
+            "30%"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 115,
+        "question": "How many synaptic connections are present in the human brain?",
+        "options": [
+            "100 million",
+            "1 billion",
+            "1,000 billion",
+            "1,000 trillion"
+        ],
+        "answer": 4
+    },
+    {
+        "id": 116,
+        "question": "What amount of electricity does the brain generate?",
+        "options": [
+            "1-5 watts",
+            "12-25 watts",
+            "50-75 watts",
+            "100 watts"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 117,
+        "question": "Why does the brain not feel pain?",
+        "options": [
+            "It lacks pain receptors",
+            "It is shielded by the skull",
+            "It has no sensory neurons",
+            "It is protected by cerebrospinal fluid"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 118,
+        "question": "What is the average weight of an adult brain?",
+        "options": [
+            "1.0 - 1.2 kilograms",
+            "1.3 - 1.4 kilograms",
+            "1.5 - 1.7 kilograms",
+            "2.0 - 2.5 kilograms"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 119,
+        "question": "What are the four cortical lobes of the brain?",
+        "options": [
+            "Frontal, Parietal, Temporal, Occipital",
+            "Cerebellum, Brainstem, Cortex, Medulla",
+            "Hippocampus, Amygdala, Thalamus, Hypothalamus",
+            "Frontal, Spinal, Temporal, Peripheral"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 120,
+        "question": "Where is the cerebellum located?",
+        "options": [
+            "At the top of the brain",
+            "In the temporal lobe",
+            "At the back of the brain",
+            "In the brainstem"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 121,
+        "question": "What is the approximate length of the human spinal cord?",
+        "options": [
+            "25 cm",
+            "45 cm",
+            "65 cm",
+            "85 cm"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 122,
+        "question": "How many pairs of spinal nerves does the spinal cord have?",
+        "options": [
+            "21",
+            "31",
+            "41",
+            "51"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 123,
+        "question": "Which nervous system controls involuntary bodily functions?",
+        "options": [
+            "Central Nervous System",
+            "Peripheral Nervous System",
+            "Autonomic Nervous System",
+            "Somatic Nervous System"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 124,
+        "question": "What are the two divisions of the autonomic nervous system?",
+        "options": [
+            "Central and Peripheral",
+            "Motor and Sensory",
+            "Sympathetic and Parasympathetic",
+            "Voluntary and Involuntary"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 125,
+        "question": "What protects the brain from harmful substances in the bloodstream?",
+        "options": [
+            "Cerebrospinal Fluid",
+            "Meninges",
+            "Blood-Brain Barrier",
+            "Skull"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 126,
+        "question": "What percentage of the body’s oxygen does the brain use?",
+        "options": [
+            "5%",
+            "10%",
+            "15%",
+            "20%"
+        ],
+        "answer": 4
+    },
+    {
+        "id": 127,
+        "question": "Which brain structure is involved in processing emotions like fear and pleasure?",
+        "options": [
+            "Hippocampus",
+            "Amygdala",
+            "Cerebellum",
+            "Thalamus"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 128,
+        "question": "What is the hippocampus primarily responsible for?",
+        "options": [
+            "Sensory processing",
+            "Language comprehension",
+            "Forming new memories",
+            "Motor coordination"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 129,
+        "question": "How many thoughts does an average person have per day?",
+        "options": [
+            "10,000",
+            "30,000",
+            "50,000",
+            "70,000"
+        ],
+        "answer": 4
+    },
+    {
+        "id": 130,
+        "question": "What role does sleep play in cognitive function?",
+        "options": [
+            "Improves blood circulation",
+            "Enhances memory consolidation",
+            "Reduces electrical activity in the brain",
+            "Increases oxygen consumption"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 131,
+        "question": "Which structure is key for processing pleasure?",
+        "options": [
+            "Amygdala",
+            "Nucleus Accumbens",
+            "Primary Motor Cortex",
+            "Cerebellum"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 132,
+        "question": "What is the role of the vagus nerve?",
+        "options": [
+            "Facilitates visual processing",
+            "Controls motor movements",
+            "Regulates functions like heart rate and digestion",
+            "Transmits pain signals"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 133,
+        "question": "Which nerve transmits visual information from the retina to the brain?",
+        "options": [
+            "Vagus Nerve",
+            "Optic Nerve",
+            "Spinal Nerve",
+            "Cranial Nerve VII"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 134,
+        "question": "What is the function of the corpus callosum?",
+        "options": [
+            "Facilitates voluntary movement",
+            "Connects the brain's left and right hemispheres",
+            "Processes sensory information",
+            "Controls digestion"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 135,
+        "question": "Which brain structure is responsible for planning and executing voluntary movements?",
+        "options": [
+            "Primary Motor Cortex",
+            "Cerebellum",
+            "Frontal Lobe",
+            "Hippocampus"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 136,
+        "question": "What does the primary sensory cortex process?",
+        "options": [
+            "Motor commands",
+            "Sensory information like touch and temperature",
+            "Visual input",
+            "Auditory signals"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 137,
+        "question": "What allows the brain to adapt and reorganize functions after an injury?",
+        "options": [
+            "Neuron proliferation",
+            "Neurogenesis",
+            "Neuroplasticity",
+            "Synaptic pruning"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 138,
+        "question": "Which neurotransmitter is closely associated with feelings of pleasure?",
+        "options": [
+            "Dopamine",
+            "Serotonin",
+            "Norepinephrine",
+            "GABA"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 139,
+        "question": "What is serotonin primarily responsible for?",
+        "options": [
+            "Enhancing energy levels",
+            "Regulating mood and sleep",
+            "Triggering muscle contractions",
+            "Managing sensory input"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 140,
+        "question": "What is the primary function of the temporal lobe?",
+        "options": [
+            "Motor control",
+            "Auditory processing and language comprehension",
+            "Vision and depth perception",
+            "Sensory integration"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 141,
+        "question": "Which cerebral lobe is associated with planning and decision-making?",
+        "options": [
+            "Occipital Lobe",
+            "Temporal Lobe",
+            "Frontal Lobe",
+            "Parietal Lobe"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 142,
+        "question": "What are the three protective membranes covering the CNS called?",
+        "options": [
+            "Neurolemma",
+            "Meninges",
+            "Myelin Sheath",
+            "Axons"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 143,
+        "question": "What is the role of cerebrospinal fluid (CSF)?",
+        "options": [
+            "Transmit electrical signals",
+            "Provide cushioning and remove waste products",
+            "Regulate synaptic connections",
+            "Facilitate neurotransmitter release"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 144,
+        "question": "Which brain structure is involved in movement control and coordination?",
+        "options": [
+            "Basal Ganglia",
+            "Hypothalamus",
+            "Amygdala",
+            "Corpus Callosum"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 145,
+        "question": "Which neurodegenerative disease is characterized by progressive loss of neuron function?",
+        "options": [
+            "Multiple Sclerosis",
+            "Alzheimer’s Disease",
+            "Epilepsy",
+            "Schizophrenia"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 146,
+        "question": "what is the primary role of the respiratory system",
+        "options": [
+            "Facilitating digestion",
+            "Producing red blood cells",
+            "Exchanging oxygen and carbon dioxide",
+            "Maintaining body temperature"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 147,
+        "question": "approximately how many breaths does an average person take per day",
+        "options": [
+            "10,000",
+            "15,000",
+            "20,000",
+            "30,000"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 148,
+        "question": "which muscle is the primary driver of breathing",
+        "options": [
+            "Intercostal muscles",
+            "Diaphragm",
+            "Abdominal muscles",
+            "Pectoral muscles"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 149,
+        "question": "what is the average amount of air moved in and out of the lungs with each breath (tidal volume)",
+        "options": [
+            "250 mL",
+            "500 mL",
+            "750 mL",
+            "1,200 mL"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 150,
+        "question": "how much air remains in the lungs after exhalation (residual volume)",
+        "options": [
+            "500 mL",
+            "1,200 mL",
+            "2,000 mL",
+            "4,500 mL"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 151,
+        "question": "what is the vital capacity of the lungs",
+        "options": [
+            "1-2 liters",
+            "2-3 liters",
+            "4-5 liters",
+            "6-7 liters"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 152,
+        "question": "what substance reduces surface tension within the alveoli to prevent their collapse",
+        "options": [
+            "Hemoglobin",
+            "Mucus",
+            "Surfactant",
+            "Carbonic acid"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 153,
+        "question": "the surface area of the lungs is approximately equivalent to",
+        "options": [
+            "A football field",
+            "A tennis court",
+            "A basketball court",
+            "A soccer field"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 154,
+        "question": "what is the phenomenon called when the body alternates breathing between nostrils",
+        "options": [
+            "Nasal switching",
+            "Nasal oscillation",
+            "Nasal cycle",
+            "Nostril adaptation"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 155,
+        "question": "how many lobes does the right lung have",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 156,
+        "question": "the trachea is reinforced by what structural component",
+        "options": [
+            "Elastic tissue",
+            "Muscle fibers",
+            "Cartilage rings",
+            "Connective tissue"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 157,
+        "question": "approximately how many alveoli are in the lungs",
+        "options": [
+            "100 million",
+            "200 million",
+            "300 million",
+            "400 million"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 158,
+        "question": "gas exchange in the alveoli occurs through which process",
+        "options": [
+            "Osmosis",
+            "Diffusion",
+            "Active transport",
+            "Filtration"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 159,
+        "question": "what percentage of the air we breathe is oxygen",
+        "options": [
+            "15%",
+            "21%",
+            "28%",
+            "32%"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 160,
+        "question": "what does the oxygen-hemoglobin dissociation curve represent",
+        "options": [
+            "How oxygen is produced in the lungs",
+            "The exchange of gases in the trachea",
+            "Oxygen binding and release by hemoglobin",
+            "The breakdown of oxygen in tissues"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 161,
+        "question": "what function does mucociliary clearance serve in the respiratory system",
+        "options": [
+            "Absorbing oxygen more efficiently",
+            "Preventing alveolar collapse",
+            "Trapping and expelling particles",
+            "Increasing tidal volume"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 162,
+        "question": "what is the purpose of the cough reflex",
+        "options": [
+            "To aid in inhalation",
+            "To clear irritants from airways",
+            "To decrease respiratory rate",
+            "To reduce mucus production"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 163,
+        "question": "what structure surrounds the lungs to reduce friction during breathing",
+        "options": [
+            "Pleural membrane",
+            "Alveoli",
+            "Bronchial lining",
+            "Nasal cartilage"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 164,
+        "question": "which organ system works closely with the respiratory system to deliver oxygen to tissues",
+        "options": [
+            "Digestive system",
+            "Nervous system",
+            "Circulatory system",
+            "Muscular system"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 165,
+        "question": "what part of the brain regulates respiratory rate and depth",
+        "options": [
+            "Cerebrum",
+            "Brainstem",
+            "Cerebellum",
+            "Hippocampus"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 166,
+        "question": "how does the respiratory system prevent food from entering the airway during swallowing",
+        "options": [
+            "By using the diaphragm",
+            "Through the epiglottis",
+            "By closing the trachea",
+            "With mucus secretion"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 167,
+        "question": "how does the respiratory system regulate blood ph",
+        "options": [
+            "By increasing mucus production",
+            "Through oxygen absorption",
+            "By adjusting carbon dioxide levels",
+            "By releasing surfactant"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 168,
+        "question": "which of the following factors can influence breathing patterns",
+        "options": [
+            "Diet",
+            "Stress",
+            "Genetics",
+            "Sunlight exposure"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 169,
+        "question": "what is a common respiratory condition that impairs lung function",
+        "options": [
+            "Hypertension",
+            "COPD",
+            "Diabetes",
+            "Osteoporosis"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 170,
+        "question": "how can air pollution impact the respiratory system",
+        "options": [
+            "It strengthens lung capacity",
+            "It causes increased oxygen absorption",
+            "It leads to inflammation and reduced lung function",
+            "It reduces the need for oxygen"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 171,
+        "question": "what is the purpose of spirometry",
+        "options": [
+            "To measure blood pressure",
+            "To monitor heart rate",
+            "To assess lung function and airflow",
+            "To check digestive efficiency"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 172,
+        "question": "what breathing exercise is used to improve lung function",
+        "options": [
+            "Resistance training",
+            "Diaphragmatic breathing",
+            "Yoga stretches",
+            "Muscle contractions"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 173,
+        "question": "when is supplemental oxygen typically required",
+        "options": [
+            "During exercise",
+            "During chronic respiratory conditions",
+            "After eating",
+            "While sleeping"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 174,
+        "question": "how much air is inhaled by a person on average in one day",
+        "options": [
+            "5,000 liters",
+            "7,500 liters",
+            "10,000 liters",
+            "11,000 liters"
+        ],
+        "answer": 4
+    },
+    {
+        "id": 175,
+        "question": "what is the length of the trachea",
+        "options": [
+            "5-6 cm",
+            "10-12 cm",
+            "20-22 cm",
+            "30-32 cm"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 176,
+        "question": "which of the following gases makes up the largest percentage of the air we breathe",
+        "options": [
+            "Carbon dioxide",
+            "Nitrogen",
+            "Oxygen",
+            "Argon"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 177,
+        "question": "what is the sneeze reflex triggered by",
+        "options": [
+            "Loud sounds",
+            "Nasal irritation",
+            "Excessive oxygen in the air",
+            "High levels of carbon dioxide"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 178,
+        "question": "which system helps regulate respiratory responses to emotional states such as stress",
+        "options": [
+            "Circulatory system",
+            "Digestive system",
+            "Nervous system",
+            "Endocrine system"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 179,
+        "question": "what can impact respiratory health, leading to conditions such as asthma and emphysema",
+        "options": [
+            "Air pollution and allergens",
+            "Lack of exercise",
+            "Excessive sleep",
+            "Low-fat diet"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 180,
+        "question": "which therapeutic technique can help patients with chronic respiratory conditions to control airflow and improve lung function",
+        "options": [
+            "Pursed-lip breathing",
+            "High-intensity interval training",
+            "Forced exhalation",
+            "Lateral movement of the diaphragm"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 181,
+        "question": "How much food and liquid does the digestive system process each day?",
+        "options": [
+            "1.5 liters",
+            "2.5 liters",
+            "3.5 liters",
+            "4.5 liters"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 182,
+        "question": "What enzyme in saliva begins carbohydrate digestion during chewing?",
+        "options": [
+            "Amylase",
+            "Lipase",
+            "Pepsin",
+            "Protease"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 183,
+        "question": "What is the primary function of peristalsis in the digestive system?",
+        "options": [
+            "Breaking down proteins in the stomach",
+            "Absorbing nutrients into the bloodstream",
+            "Moving food through the esophagus into the stomach and intestines",
+            "Neutralizing stomach acid"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 184,
+        "question": "What is the pH range of the stomach acid that helps break down proteins?",
+        "options": [
+            "4.5-6.5",
+            "5.5-7.5",
+            "1.5-3.5",
+            "6.5-8.5"
+        ]
+    },
+    {
+        "id": 185,
+        "question": "Which enzyme breaks down proteins in the stomach?",
+        "options": [
+            "Amylase",
+            "Pepsin",
+            "Lipase",
+            "Trypsin"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 186,
+        "question": "Which part of the small intestine is primarily responsible for nutrient absorption?",
+        "options": [
+            "Duodenum",
+            "Jejunum and ileum",
+            "Cecum",
+            "Colon"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 187,
+        "question": "What is the function of villi and microvilli in the small intestine?",
+        "options": [
+            "Absorb proteins",
+            "Increase surface area for nutrient absorption",
+            "Produce digestive enzymes",
+            "Store bile"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 188,
+        "question": "Where is bile stored after being produced by the liver?",
+        "options": [
+            "Small intestine",
+            "Gallbladder",
+            "Large intestine",
+            "Stomach"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 189,
+        "question": "Which of the following enzymes is released by the pancreas to help digest fats?",
+        "options": [
+            "Amylase",
+            "Lipase",
+            "Pepsin",
+            "Lactase"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 190,
+        "question": "What percentage of water intake is absorbed in the small intestine?",
+        "options": [
+            "50%",
+            "70%",
+            "90%",
+            "100%"
+        ]
+    },
+    {
+        "id": 191,
+        "question": "What is the primary function of the large intestine (colon)?",
+        "options": [
+            "Absorb nutrients into the bloodstream",
+            "Absorb remaining water and electrolytes",
+            "Produce bile",
+            "Break down carbohydrates"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 192,
+        "question": "How does fiber aid digestion?",
+        "options": [
+            "Slows down the movement of food",
+            "Speeds up the movement of food through the digestive tract",
+            "Absorbs water",
+            "Produces digestive enzymes"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 193,
+        "question": "Where is feces stored before being excreted?",
+        "options": [
+            "Stomach",
+            "Rectum",
+            "Large intestine",
+            "Gallbladder"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 194,
+        "question": "What does the hormone gastrin stimulate in the digestive system?",
+        "options": [
+            "Bile production",
+            "Pancreatic enzyme secretion",
+            "Acid secretion to aid digestion",
+            "Water absorption"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 195,
+        "question": "What is the function of the hormone secretin in digestion?",
+        "options": [
+            "Stimulates acid secretion in the stomach",
+            "Prompts the pancreas to release bicarbonate to neutralize stomach acid",
+            "Increases hunger",
+            "Stimulates fat digestion in the small intestine"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 196,
+        "question": "Which of the following actions is stimulated by cholecystokinin (CCK)?",
+        "options": [
+            "Bile release from the gallbladder to emulsify fats",
+            "Secretion of amylase from the pancreas",
+            "Inhibition of peristalsis",
+            "Absorption of nutrients in the small intestine"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 197,
+        "question": "Which hormone signals satiety to the brain?",
+        "options": [
+            "Ghrelin",
+            "Leptin",
+            "Insulin",
+            "Gastrin"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 198,
+        "question": "What is the purpose of mucus production in the stomach?",
+        "options": [
+            "To protect the stomach lining from its own acidic environment",
+            "To digest carbohydrates",
+            "To aid in nutrient absorption",
+            "To neutralize stomach acid"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 199,
+        "question": "What is one of the functions of the gut microbiota?",
+        "options": [
+            "Produces insulin",
+            "Aids digestion and produces vitamins like B and K",
+            "Neutralizes stomach acid",
+            "Stimulates peristalsis"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 200,
+        "question": "Which substance neutralizes stomach acid entering the small intestine?",
+        "options": [
+            "Amylase",
+            "Lipase",
+            "Bicarbonate",
+            "Pepsin"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 201,
+        "question": "How do nutrients absorbed in the small intestine enter the body?",
+        "options": [
+            "Through the lymphatic system",
+            "Directly into the liver",
+            "Via the bloodstream",
+            "Through the large intestine"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 202,
+        "question": "What controls digestive processes and responds to emotions like stress?",
+        "options": [
+            "Central nervous system",
+            "Enteric nervous system",
+            "Peripheral nervous system",
+            "Autonomic nervous system"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 203,
+        "question": "Which hormone regulates glucose absorption in the digestive system?",
+        "options": [
+            "Insulin",
+            "Ghrelin",
+            "Leptin",
+            "Secretin"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 204,
+        "question": "What is one of the functions of the liver in digestion?",
+        "options": [
+            "Breaks down carbohydrates",
+            "Produces bile",
+            "Absorbs nutrients",
+            "Neutralizes stomach acid"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 205,
+        "question": "What is the role of dietary fiber in digestion?",
+        "options": [
+            "Promotes constipation",
+            "Helps in water absorption",
+            "Prevents constipation and aids bowel health",
+            "Stimulates enzyme production"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 206,
+        "question": "Which of the following is a condition that can affect digestive function?",
+        "options": [
+            "Irritable Bowel Syndrome (IBS)",
+            "Hypertension",
+            "Diabetes",
+            "Asthma"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 207,
+        "question": "Why is hydration important for digestion?",
+        "options": [
+            "To speed up enzyme production",
+            "To help break down food and absorb nutrients",
+            "To neutralize stomach acid",
+            "To increase stomach acid production"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 208,
+        "question": "What is an important practice for preventing digestive infections?",
+        "options": [
+            "Eating large meals",
+            "Washing hands and practicing safe food handling",
+            "Eating only raw foods",
+            "Avoiding water intake"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 209,
+        "question": "Which of the following can promote healthy gut bacteria?",
+        "options": [
+            "Antibiotics",
+            "Probiotics, like those in yogurt",
+            "High-fat diets",
+            "Alcohol consumption"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 210,
+        "question": "What is the purpose of an endoscopy?",
+        "options": [
+            "To treat stomach ulcers",
+            "To diagnose conditions like ulcers and polyps in the digestive tract",
+            "To remove digestive waste",
+            "To measure nutrient absorption"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 211,
+        "question": "Which of the following is a function of the endocrine system?",
+        "options": [
+            "Regulating digestive enzymes",
+            "Regulating bodily functions through hormones",
+            "Producing white blood cells",
+            "Directing voluntary muscle movements"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 212,
+        "question": "How many different hormones are produced by the body’s glands?",
+        "options": [
+            "More than 20",
+            "More than 50",
+            "Less than 10",
+            "More than 100"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 213,
+        "question": "Which hormone is released in response to stress, preparing the body for the \"fight or flight\" response?",
+        "options": [
+            "Insulin",
+            "Adrenaline",
+            "Thyroxine",
+            "Melatonin"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 214,
+        "question": "What is the primary function of melatonin produced by the pineal gland?",
+        "options": [
+            "Regulating blood sugar",
+            "Regulating sleep-wake cycles",
+            "Regulating calcium levels",
+            "Regulating mood"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 215,
+        "question": "Which of the following describes the shape of the pineal gland?",
+        "options": [
+            "Oval",
+            "Pine cone",
+            "Square",
+            "Circular"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 216,
+        "question": "Which hormone does the thyroid gland produce to control metabolism?",
+        "options": [
+            "Calcitonin",
+            "Thyroxine (T4) and Triiodothyronine (T3)",
+            "Cortisol",
+            "Testosterone"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 217,
+        "question": "What is the function of calcitonin produced by the thyroid gland?",
+        "options": [
+            "Regulate metabolism",
+            "Regulate calcium levels in the blood and bones",
+            "Control stress response",
+            "Promote muscle growth"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 218,
+        "question": "What do the adrenal glands primarily produce in response to stress?",
+        "options": [
+            "Melatonin and cortisol",
+            "Insulin and glucagon",
+            "Adrenaline (epinephrine) and cortisol",
+            "Thyroxine and calcitonin"
+        ]
+    },
+    {
+        "id": 219,
+        "question": "Which part of the pancreas secretes glucagon?",
+        "options": [
+            "Beta cells",
+            "Alpha cells",
+            "Pineal cells",
+            "Pituitary cells"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 220,
+        "question": "What is the role of the pancreas in the endocrine system?",
+        "options": [
+            "Only produces insulin",
+            "Regulates blood sugar through insulin and glucagon",
+            "Regulates metabolism",
+            "Produces growth hormones"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 221,
+        "question": "What is the primary role of the pituitary gland, also known as the \"master gland\"?",
+        "options": [
+            "Produce insulin and glucagon",
+            "Control other endocrine glands and regulate growth, reproduction, and stress responses",
+            "Regulate sleep-wake cycles",
+            "Produce adrenaline and cortisol"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 222,
+        "question": "Which hormones are produced by the anterior pituitary gland?",
+        "options": [
+            "Estrogen and progesterone",
+            "Insulin and glucagon",
+            "Growth hormone, FSH, LH, and ACTH",
+            "Cortisol and adrenaline"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 223,
+        "question": "What role does the hypothalamus play in the endocrine system?",
+        "options": [
+            "It regulates blood sugar levels",
+            "It links the nervous system to the endocrine system and controls the pituitary gland",
+            "It produces melatonin",
+            "It produces calcitonin"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 224,
+        "question": "Which hormone does the hypothalamus produce to regulate hunger, thirst, and sleep patterns?",
+        "options": [
+            "Insulin",
+            "Growth hormone",
+            "Releasing and inhibiting factors",
+            "Melatonin"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 225,
+        "question": "What is the function of the parathyroid glands?",
+        "options": [
+            "Produce estrogen and progesterone",
+            "Produce parathyroid hormone (PTH) to regulate calcium levels",
+            "Produce insulin and glucagon",
+            "Produce adrenaline"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 226,
+        "question": "What critical function does the thymus gland serve?",
+        "options": [
+            "Regulates metabolism",
+            "Develops T-cells essential for immune function",
+            "Regulates calcium levels in the blood",
+            "Produces insulin and glucagon"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 227,
+        "question": "How does the thymus change with age?",
+        "options": [
+            "It becomes more active",
+            "It shrinks, impacting immune responses",
+            "It enlarges",
+            "It produces more growth hormone"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 228,
+        "question": "Which hormones are produced by the ovaries?",
+        "options": [
+            "Estrogen and testosterone",
+            "Estrogen and progesterone",
+            "Testosterone and cortisol",
+            "Insulin and glucagon"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 229,
+        "question": "What hormone is primarily produced by the testes?",
+        "options": [
+            "Estrogen",
+            "Testosterone",
+            "Progesterone",
+            "Growth hormone"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 230,
+        "question": "What type of feedback loop helps maintain hormone levels in the body?",
+        "options": [
+            "Positive feedback",
+            "Negative feedback",
+            "Both positive and negative feedback",
+            "No feedback loop"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 231,
+        "question": "Which endocrine system axis regulates stress responses?",
+        "options": [
+            "Hypothalamus-pituitary-gonadal (HPG) axis",
+            "Hypothalamus-pituitary-adrenal (HPA) axis",
+            "Hypothalamus-pituitary-thyroid (HPT) axis",
+            "Hypothalamus-pituitary-pancreatic (HPP) axis"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 232,
+        "question": "How does the endocrine system regulate blood glucose levels?",
+        "options": [
+            "By producing adrenaline",
+            "By producing insulin and glucagon in the pancreas",
+            "By producing thyroxine",
+            "By producing melatonin"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 233,
+        "question": "Which part of the endocrine system helps control both hormonal and neural responses to stimuli?",
+        "options": [
+            "Pituitary gland",
+            "Hypothalamus",
+            "Pineal gland",
+            "Adrenal glands"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 234,
+        "question": "how much area does the skin cover in an average adult",
+        "options": [
+            "10 square feet",
+            "15 square feet",
+            "22 square feet",
+            "30 square feet"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 235,
+        "question": "approximately how many skin cells are shed every minute",
+        "options": [
+            "10,000 cells",
+            "40,000 cells",
+            "100,000 cells",
+            "200,000 cells"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 236,
+        "question": "how many gallons of sweat can the skin produce per day under normal conditions",
+        "options": [
+            "1 gallon",
+            "3 gallons",
+            "5 gallons",
+            "7 gallons"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 237,
+        "question": "what is the primary function of the skin's barrier",
+        "options": [
+            "To produce sweat",
+            "To regulate temperature",
+            "To prevent pathogen entry and minimize water loss",
+            "To produce melanin"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 238,
+        "question": "what is the average growth rate of hair per month",
+        "options": [
+            "0.5 cm",
+            "1 cm",
+            "1.25 cm",
+            "2 cm"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 239,
+        "question": "how much do fingernails grow each month",
+        "options": [
+            "1 millimeter",
+            "2 millimeters",
+            "3 millimeters",
+            "4 millimeters"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 240,
+        "question": "which layer of the skin is responsible for providing insulation and connecting the skin to underlying structures",
+        "options": [
+            "Epidermis",
+            "Dermis",
+            "Hypodermis",
+            "Sweat glands"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 241,
+        "question": "what is the function of melanocytes in the skin",
+        "options": [
+            "To produce keratin",
+            "To produce melanin",
+            "To create sweat",
+            "To form hair follicles"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 242,
+        "question": "how many sweat glands are there approximately in the skin",
+        "options": [
+            "1 million",
+            "2 million",
+            "3 million",
+            "4 million"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 243,
+        "question": "which phase is known as the hair growth phase",
+        "options": [
+            "Anagen",
+            "Catagen",
+            "Telogen",
+            "Resting"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 244,
+        "question": "which part of the nail protects the fingertips and toes",
+        "options": [
+            "Nail plate",
+            "Nail bed",
+            "Cuticle",
+            "Nail root"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 245,
+        "question": "what is the average ph range of the skin",
+        "options": [
+            "2.5 to 3.5",
+            "3.5 to 4.5",
+            "4.5 to 5.5",
+            "5.5 to 6.5"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 246,
+        "question": "how many hairs does an average person lose daily",
+        "options": [
+            "10-20 hairs",
+            "20-50 hairs",
+            "50-100 hairs",
+            "100-150 hairs"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 247,
+        "question": "the skin plays a crucial role in the synthesis of which vitamin essential for calcium absorption",
+        "options": [
+            "Vitamin A",
+            "Vitamin B12",
+            "Vitamin D",
+            "Vitamin E"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 248,
+        "question": "what is the skin's response to uv radiation",
+        "options": [
+            "It cools the body",
+            "It produces melanin to protect against damage",
+            "It increases water absorption",
+            "It produces collagen"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 249,
+        "question": "What is the primary function of the immune system?",
+        "options": [
+            "To regulate body temperature",
+            "To defend the body against infections and diseases",
+            "To transport oxygen throughout the body",
+            "To digest food"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 250,
+        "question": "Which of the following is responsible for producing all blood cells, including immune cells?",
+        "options": [
+            "Thymus",
+            "Spleen",
+            "Bone Marrow",
+            "Lymph Nodes",
+            "To filter blood and store white blood cells",
+            "To mature T-cells",
+            "To produce antibodies",
+            "To produce red blood cells"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 250,
+        "question": "Which of the following is responsible for producing all blood cells, including immune cells?",
+        "options": [
+            "Thymus",
+            "Spleen",
+            "Bone Marrow",
+            "Lymph Nodes",
+            "To filter blood and store white blood cells",
+            "To mature T-cells",
+            "To produce antibodies",
+            "To produce red blood cells"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 251,
+        "question": "What is the primary function of the spleen in the immune system?",
+        "options": [
+            "To produce B-cells",
+            "To filter blood and store white blood cells",
+            "To produce red blood cells",
+            "To mature T-cells"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 252,
+        "question": "Which part of the lymphatic system is responsible for transporting immune cells and filtering out pathogens?",
+        "options": [
+            "Bone Marrow",
+            "Lymph Nodes",
+            "Thymus",
+            "Spleen"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 253,
+        "question": "Which type of immunity provides immediate, non-specific defense against pathogens?",
+        "options": [
+            "Adaptive Immunity",
+            "Innate Immunity",
+            "Humoral Immunity",
+            "Cell-Mediated Immunity"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 254,
+        "question": "Which immune cells are involved in adaptive immunity and help generate memory cells for faster responses?",
+        "options": [
+            "Macrophages",
+            "T-cells and B-cells",
+            "Natural killer (NK) cells",
+            "Phagocytes"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 255,
+        "question": "What is the function of antibodies produced by B-cells?",
+        "options": [
+            "To engulf and digest pathogens",
+            "To neutralize pathogens",
+            "To filter blood",
+            "To regulate inflammation"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 256,
+        "question": "Which type of cells are responsible for producing antibodies to neutralize pathogens?",
+        "options": [
+            "T-cells",
+            "Macrophages",
+            "B-cells",
+            "Natural killer (NK) cells"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 257,
+        "question": "What is phagocytosis?",
+        "options": [
+            "The production of antibodies",
+            "The process by which immune cells engulf and digest pathogens",
+            "The release of cytokines to regulate the immune response",
+            "The formation of memory cells"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 258,
+        "question": "Which signaling molecules regulate and coordinate the immune response, enhancing the body's ability to fight infections?",
+        "options": [
+            "Cytokines and Interferons",
+            "Antibodies",
+            "T-cells and B-cells",
+            "Pattern Recognition Receptors (PRRs)"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 259,
+        "question": "What is the complement system responsible for?",
+        "options": [
+            "Engulfing pathogens",
+            "Enhancing the immune response by promoting inflammation and killing pathogens",
+            "Producing antibodies",
+            "Filtering blood"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 260,
+        "question": "Which system plays a crucial role in mucosal immunity, protecting the gut and other mucosal surfaces?",
+        "options": [
+            "Lymphatic System",
+            "Gut-Associated Lymphoid Tissue (GALT)",
+            "Complement System",
+            "Bone Marrow"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 261,
+        "question": "What is the primary function of the gut microbiome in relation to the immune system?",
+        "options": [
+            "To produce white blood cells",
+            "To modulate immune function and maintain overall health",
+            "To filter blood",
+            "To generate memory cells"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 262,
+        "question": "What does immune tolerance prevent?",
+        "options": [
+            "Autoimmune reactions",
+            "Pathogen recognition",
+            "Phagocytosis",
+            "Antibody production"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 263,
+        "question": "Which condition occurs when the immune system targets the body’s own tissues?",
+        "options": [
+            "Autoimmune Diseases",
+            "Allergies",
+            "Cancer",
+            "Infections"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 264,
+        "question": "What type of immune response is responsible for exaggerated reactions to harmless substances, such as allergens?",
+        "options": [
+            "Immunotherapy",
+            "Allergies",
+            "Adaptive Immunity",
+            "Innate Immunity"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 265,
+        "question": "Which therapy enhances the body's immune response to fight diseases like cancer?",
+        "options": [
+            "Antibiotics",
+            "Immunotherapy",
+            "Chemotherapy",
+            "Vaccines"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 266,
+        "question": "What is the purpose of vaccines?",
+        "options": [
+            "To neutralize pathogens directly",
+            "To stimulate the immune system to produce a memory response against specific pathogens",
+            "To produce white blood cells",
+            "To remove damaged red blood cells"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 267,
+        "question": "What is the term for the gradual decline in immune function with age?",
+        "options": [
+            "Immunosenescence",
+            "Autoimmunity",
+            "Allergy",
+            "Immunotherapy"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 268,
+        "question": "How much lymph fluid does the body produce daily?",
+        "options": [
+            "100-200 milliliters",
+            "500-600 milliliters",
+            "1-2 liters",
+            "3-4 liters"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 269,
+        "question": "What are Pattern Recognition Receptors (PRRs) responsible for?",
+        "options": [
+            "Detecting common features of microbes to aid in the immune response",
+            "Filtering blood",
+            "Producing antibodies",
+            "Maturing T-cells"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 270,
+        "question": "What does the blood-brain barrier protect the brain from?",
+        "options": [
+            "Nutrient deficiencies",
+            "Pathogens and toxins",
+            "Autoimmune attacks",
+            "Immune cells"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 271,
+        "question": "What is the primary role of the urinary system?",
+        "options": [
+            "To digest food and absorb nutrients",
+            "To remove waste products and regulate fluid balance",
+            "To pump blood throughout the body",
+            "To store nutrients and oxygen"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 272,
+        "question": "Which of the following is the primary organ responsible for filtering blood and producing urine?",
+        "options": [
+            "Urethra",
+            "Bladder",
+            "Kidneys",
+            "Ureters"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 273,
+        "question": "What is the function of the ureters in the urinary system?",
+        "options": [
+            "To store urine until it is ready to be expelled",
+            "To filter blood and produce urine",
+            "To transport urine from the kidneys to the bladder",
+            "To expel urine from the body"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 274,
+        "question": "Which organ stores urine until it is ready to be excreted from the body?",
+        "options": [
+            "Kidneys",
+            "Urethra",
+            "Bladder",
+            "Ureters"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 275,
+        "question": "What is the role of the urethra in the urinary system?",
+        "options": [
+            "To filter waste products from the blood",
+            "To store urine",
+            "To expel urine from the body",
+            "To transport urine to the bladder"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 276,
+        "question": "Where does the process of filtration take place in the kidneys?",
+        "options": [
+            "Renal tubules",
+            "Glomeruli",
+            "Urethra",
+            "Bladder"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 277,
+        "question": "What happens during the process of reabsorption in the kidneys?",
+        "options": [
+            "Waste products are added to the urine",
+            "Nutrients, water, and electrolytes are absorbed back into the bloodstream",
+            "Blood enters the glomeruli",
+            "The urine is stored in the bladder"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 278,
+        "question": "During the secretion process in the kidneys, what is added to the urine?",
+        "options": [
+            "Nutrients and electrolytes",
+            "Waste products and excess ions",
+            "Blood plasma",
+            "Oxygen and glucose"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 279,
+        "question": "Where does the final urine flow after it is formed in the kidneys?",
+        "options": [
+            "Directly to the blood",
+            "From the kidneys through the ureters to the bladder",
+            "From the bladder to the urethra",
+            "Back into the bloodstream"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 280,
+        "question": "What is the process of excretion in the urinary system?",
+        "options": [
+            "Blood enters the kidneys",
+            "Urine is formed and expelled from the body through the urethra",
+            "Filtrate is reabsorbed into the bloodstream",
+            "Waste products are filtered into the renal tubules"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 281,
+        "question": "What is the human eye's ability to distinguish colors?",
+        "options": [
+            "1 million colors",
+            "10 million colors",
+            "100 million colors",
+            "1 billion colors"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 282,
+        "question": "What would be the resolution of the human eye if it were a camera?",
+        "options": [
+            "576 megapixels",
+            "100 megapixels",
+            "200 megapixels",
+            "2 megapixels"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 283,
+        "question": "Which muscles are the fastest in the human body?",
+        "options": [
+            "Bicep muscles",
+            "Extraocular muscles controlling eye movement",
+            "Leg muscles",
+            "Abdominal muscles"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 284,
+        "question": "What is the blind spot in the human eye?",
+        "options": [
+            "Where the iris meets the pupil",
+            "Where the optic nerve connects to the retina",
+            "The area around the fovea",
+            "The center of the lens"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 285,
+        "question": "How much tears does an average person produce per year?",
+        "options": [
+            "0.5 liters",
+            "1 to 1.5 liters",
+            "2 liters",
+            "5 liters"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 286,
+        "question": "What is the maximum dilation size of the pupil in darkness?",
+        "options": [
+            "5 millimeters",
+            "7 millimeters",
+            "3 millimeters",
+            "10 millimeters"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 287,
+        "question": "How many rod and cone cells are present in the retina?",
+        "options": [
+            "6 million rods, 120 million cones",
+            "120 million rods, 6 million cones",
+            "10 million rods, 10 million cones",
+            "100 million rods, 100 million cones"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 288,
+        "question": "What is the average human field of vision?",
+        "options": [
+            "90 degrees",
+            "180 degrees",
+            "120 degrees",
+            "270 degrees"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 289,
+        "question": "What is the human ear's frequency detection range?",
+        "options": [
+            "10 Hz to 10,000 Hz",
+            "20 Hz to 20,000 Hz",
+            "50 Hz to 50,000 Hz",
+            "5 Hz to 50,000 Hz"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 290,
+        "question": "At what speed does sound travel in the air?",
+        "options": [
+            "500 kilometers per hour",
+            "1,225 kilometers per hour",
+            "1,500 kilometers per hour",
+            "2,000 kilometers per hour"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 291,
+        "question": "How long is the average human ear canal?",
+        "options": [
+            "1 centimeter",
+            "2.5 centimeters",
+            "5 centimeters",
+            "7 centimeters"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 292,
+        "question": "What system in the ear helps maintain balance?",
+        "options": [
+            "Cochlear system",
+            "Vestibular system",
+            "Tympanic system",
+            "Auditory system"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 293,
+        "question": "What is the role of earwax (cerumen)?",
+        "options": [
+            "Amplifying sound",
+            "Protecting the ear canal from dust, microorganisms, and water",
+            "Helping in sound frequency detection",
+            "Preventing balance loss"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 294,
+        "question": "How many taste buds does the average human tongue have?",
+        "options": [
+            "500 to 1,000",
+            "1,000 to 3,000",
+            "5,000 to 10,000",
+            "20,000 to 30,000"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 295,
+        "question": "What are the five basic tastes humans can detect?",
+        "options": [
+            "Sweet, sour, salty, bitter, spicy",
+            "Sweet, sour, salty, bitter, umami",
+            "Sweet, sour, salty, bitter, cold",
+            "Sweet, salty, savory, bitter, umami"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 296,
+        "question": "What is the \"tongue map\" myth about?",
+        "options": [
+            "Different areas of the tongue are sensitive to specific tastes",
+            "Only the tip of the tongue can sense sweetness",
+            "Different parts of the tongue can sense all tastes",
+            "Only the back of the tongue can sense bitter"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 297,
+        "question": "Which of the following is the sweetest substance known?",
+        "options": [
+            "Saccharin",
+            "Fructose",
+            "Thaumatin",
+            "Stevia"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 298,
+        "question": "How many olfactory receptors are present in the human nose?",
+        "options": [
+            "1-2 million",
+            "5-6 million",
+            "10 million",
+            "20 million"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 299,
+        "question": "How many different scents can humans distinguish?",
+        "options": [
+            "1 million",
+            "100 million",
+            "1 trillion",
+            "500 trillion"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 300,
+        "question": "Which part of the brain processes smell information?",
+        "options": [
+            "Olfactory bulb",
+            "Occipital lobe",
+            "Frontal lobe",
+            "Temporal lobe"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 301,
+        "question": "Which of the following is true about the sense of smell?",
+        "options": [
+            "It is less acute in the morning",
+            "Women generally have a better sense of smell than men",
+            "Olfaction is not related to memory",
+            "Smell sensitivity increases throughout the day"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 302,
+        "question": "What is anosmia?",
+        "options": [
+            "The loss of the sense of sight",
+            "The loss of the sense of smell",
+            "The loss of the sense of taste",
+            "The inability to detect certain odors"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 303,
+        "question": "What type of cells in the retina are responsible for low-light vision?",
+        "options": [
+            "Cone cells",
+            "Rod cells",
+            "Bipolar cells",
+            "Ganglion cells"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 304,
+        "question": "What part of the retina is responsible for sharp central vision?",
+        "options": [
+            "Macula",
+            "Fovea centralis",
+            "Optic disc",
+            "Blind spot"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 305,
+        "question": "How many times does an average person blink per minute?",
+        "options": [
+            "5-10 times",
+            "15-20 times",
+            "25-30 times",
+            "40-50 times"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 306,
+        "question": "What is the role of ossicles in the ear?",
+        "options": [
+            "To amplify sound vibrations",
+            "To detect sound frequencies",
+            "To detect balance signals",
+            "To produce earwax"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 307,
+        "question": "At which part of the cochlea are higher frequencies processed?",
+        "options": [
+            "Apex",
+            "Base",
+            "Middle",
+            "Cochlear duct"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 308,
+        "question": "How does the sense of smell influence the perception of taste?",
+        "options": [
+            "Smell has no effect on taste",
+            "Smell contributes to 80% of what we perceive as taste",
+            "Smell only influences bitter tastes",
+            "Smell helps detect temperature of food"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 309,
+        "question": "How does age affect taste perception?",
+        "options": [
+            "Age has no effect on taste perception",
+            "The number of taste buds increases with age",
+            "The number of taste buds decreases with age",
+            "Age only affects the perception of sweet flavors"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 310,
+        "question": "What is the main reason that some scents are strongly associated with memories?",
+        "options": [
+            "The olfactory bulb is directly connected to the limbic system, which is involved in memory and emotions",
+            "Smells activate the hippocampus in the brain",
+            "The nose is the only sensory organ with receptors for memory",
+            "Scents have no relation to memory"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 311,
+        "question": "When is scent sensitivity at its peak during the day?",
+        "options": [
+            "Early afternoon",
+            "Late morning",
+            "Early morning",
+            "Evening"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 312,
+        "question": "What is the effect of losing the sense of smell (anosmia) on taste perception?",
+        "options": [
+            "It has no effect on taste",
+            "It decreases the ability to detect sweetness",
+            "It significantly reduces flavor perception, as 80% of taste comes from smell",
+            "It enhances the perception of taste"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 313,
+        "question": "Which of the following describes the concept of sensory overlap?",
+        "options": [
+            "Sensory systems work independently of each other.",
+            "Sensory systems work together to create a unified perception of the environment.",
+            "Sensory systems only work with one sense at a time.",
+            "Sensory systems adapt to stimuli."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 314,
+        "question": "What is sensory adaptation?",
+        "options": [
+            "The ability to sense new stimuli.",
+            "The brain’s inability to focus on constant stimuli.",
+            "Sensory systems adapting to constant stimuli over time.",
+            "The immediate reaction to new stimuli."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 315,
+        "question": "Which of the following describes cross-modal perception?",
+        "options": [
+            "Sensory systems working independently.",
+            "Sensory information from one modality influencing the perception of another modality.",
+            "The ability to perceive only one sense at a time.",
+            "A condition where sensory signals are ignoreD)"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 316,
+        "question": "What is the difference between sensation and perception?",
+        "options": [
+            "Sensation refers to interpretation; perception is detection.",
+            "Sensation refers to detection, while perception involves interpretation.",
+            "Perception involves sensory thresholds.",
+            "There is no difference between sensation and perception."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 317,
+        "question": "Pain sensation involves which of the following?",
+        "options": [
+            "Only physical sensation.",
+            "Only cognitive components.",
+            "Physical, emotional, and cognitive components.",
+            "A simple sensory experience."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 318,
+        "question": "What is the role of sensory receptors?",
+        "options": [
+            "To interpret sensory stimuli.",
+            "To detect specific types of stimuli.",
+            "To adapt to constant stimuli.",
+            "To process sensory information."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 319,
+        "question": "The vestibular system helps maintain which of the following?",
+        "options": [
+            "Visual clarity.",
+            "Hearing range.",
+            "Balance and spatial orientation.",
+            "Smell sensitivity."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 320,
+        "question": "How does the brain integrate sensory information?",
+        "options": [
+            "By focusing on one sense at a time.",
+            "By isolating sensory inputs.",
+            "By combining inputs from multiple sources to form a coherent picture of the environment.",
+            "By ignoring irrelevant sensory datA)"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 321,
+        "question": "What are sensory thresholds?",
+        "options": [
+            "A measure of how much stimuli is ignoreD)",
+            "The level at which stimuli are detected, which varies among individuals.",
+            "The average sensory response time.",
+            "The ability to perceive only certain senses."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 322,
+        "question": "How does multisensory integration affect perception?",
+        "options": [
+            "It creates confusion.",
+            "It enhances perception, such as when sight influences taste.",
+            "It reduces sensory feedback.",
+            "It limits sensory experiences."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 323,
+        "question": "What determines a person’s eye color?",
+        "options": [
+            "The number of eyelash follicles.",
+            "The amount and type of pigments in the iris.",
+            "The size of the corneA)",
+            "The number of rods and cones in the retinA)"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 324,
+        "question": "Which cells are responsible for night vision in humans?",
+        "options": [
+            "Cone cells.",
+            "Rod cells.",
+            "Retinal ganglion cells.",
+            "Macula cells."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 325,
+        "question": "What is color blindness?",
+        "options": [
+            "An inability to see colors at night.",
+            "The inability to see shapes clearly.",
+            "A condition where individuals cannot perceive certain colors.",
+            "The inability to see light."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 326,
+        "question": "What allows the human eye to adapt to different light conditions?",
+        "options": [
+            "Rod cells.",
+            "Cones in the retinA)",
+            "The lens.",
+            "The iris."
+        ],
+        "answer": 4
+    },
+    {
+        "id": 327,
+        "question": "How do the eyes maintain binocular vision?",
+        "options": [
+            "By focusing on multiple objects at once.",
+            "By moving in unison to keep focus on a single point.",
+            "By using only one eye for focus.",
+            "By rotating independently."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 328,
+        "question": "What is the function of the pinna (external ear)?",
+        "options": [
+            "It helps amplify sounD)",
+            "It helps capture and funnel sound waves into the ear canal.",
+            "It balances sound waves in the inner ear.",
+            "It detects high-frequency sounds."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 329,
+        "question": "At which frequency range are humans most sensitive for speech comprehension?",
+        "options": [
+            "20 Hz to 200 Hz.",
+            "200 Hz to 2,000 Hz.",
+            "2,000 Hz to 5,000 Hz.",
+            "10,000 Hz to 20,000 Hz."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 330,
+        "question": "What causes tinnitus?",
+        "options": [
+            "Ear infections only.",
+            "Ringing or buzzing in the ears due to hearing damage or other conditions.",
+            "Loss of ear hair cells.",
+            "Increased sound sensitivity."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 331,
+        "question": "How does the brain use sound localization?",
+        "options": [
+            "By using differences in light intensity.",
+            "By using timing and intensity differences of sound between the ears.",
+            "By isolating the sound frequency.",
+            "By focusing sound through the ear canal."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 332,
+        "question": "Which factor influences a person’s ability to taste salt?",
+        "options": [
+            "Sensory fatigue.",
+            "Sodium ions present in the fooD)",
+            "The number of taste buds on the tongue.",
+            "The texture of fooD)"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 333,
+        "question": "What does genetic variation affect in relation to taste?",
+        "options": [
+            "Sensitivity to sweet flavors.",
+            "Sensitivity to bitter tastes.",
+            "Sensitivity to salty foods.",
+            "Sensitivity to sour flavors."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 334,
+        "question": "How do cultural influences affect taste?",
+        "options": [
+            "Taste preferences are genetically identical across cultures.",
+            "Cultural influences only affect the texture of fooD)",
+            "Cultural experiences and exposure to different foods influence taste preferences.",
+            "Taste preferences are the same for everyone."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 335,
+        "question": "What is the role of the olfactory system?",
+        "options": [
+            "To detect vibrations.",
+            "To distinguish subtle differences in scents.",
+            "To regulate taste preferences.",
+            "To regulate body temperature."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 336,
+        "question": "What is olfactory fatigue?",
+        "options": [
+            "The inability to smell due to illness.",
+            "The decrease in scent sensitivity after continuous exposure to a particular scent.",
+            "The permanent loss of the sense of smell.",
+            "A condition affecting taste sensitivity."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 337,
+        "question": "How does smell affect memory?",
+        "options": [
+            "Smell has no impact on memory.",
+            "Smell can evoke strong emotional responses and trigger memories due to its connection with the limbic system.",
+            "Smell is unrelated to the limbic system.",
+            "Smell is only linked to short-term memory."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 338,
+        "question": "What is the rate of physical growth in infants during the first year?",
+        "options": [
+            "Infants double their birth weight by 2 months and triple it by 8 months.",
+            "Infants double their birth weight by 5 months and triple it by 12 months.",
+            "Infants gain 10 pounds per month during the first year.",
+            "Infants grow 100% in length by the end of the first year."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 339,
+        "question": "By the age of 2, the brain reaches what percentage of its adult size?",
+        "options": [
+            "60%",
+            "80%",
+            "90%",
+            "100%"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 340,
+        "question": "At what age does an infant's vision typically improve to include color recognition and depth perception?",
+        "options": [
+            "2 months",
+            "4 months",
+            "6 months",
+            "12 months"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 341,
+        "question": "How much height do children typically gain per year during early childhood (3-6 years)?",
+        "options": [
+            "1-2 inches",
+            "2-3 inches",
+            "3-4 inches",
+            "5-6 inches"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 342,
+        "question": "During early childhood, children begin to develop which cognitive ability?",
+        "options": [
+            "Abstract thinking",
+            "Logical thinking and language skills",
+            "Mathematical reasoning",
+            "Complete understanding of social concepts"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 343,
+        "question": "What emotional development is typical for children in early childhood?",
+        "options": [
+            "Lack of emotional expression",
+            "Increased independence and self-awareness",
+            "A strong desire for dependency",
+            "Emotional regression"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 344,
+        "question": "During middle childhood, which cognitive ability begins to develop?",
+        "options": [
+            "Ability to perform logical operations",
+            "Abstract thinking",
+            "Ability to perform advanced mathematics",
+            "Complex language structures"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 345,
+        "question": "At what stage do children start forming friendships based on shared interests and values?",
+        "options": [
+            "Infancy",
+            "Early childhood",
+            "Middle childhood",
+            "Adolescence"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 346,
+        "question": "At what age does puberty typically conclude for girls?",
+        "options": [
+            "12",
+            "14",
+            "16",
+            "18"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 347,
+        "question": "Which cognitive skill emerges during adolescence?",
+        "options": [
+            "Concrete operational thinking",
+            "Abstract and critical thinking",
+            "Basic reasoning",
+            "Early decision-making abilities"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 348,
+        "question": "During adolescence, individuals begin exploring which aspect of themselves?",
+        "options": [
+            "Financial independence",
+            "Physical appearance",
+            "Personal identity, values, and career aspirations",
+            "Intellectual achievements"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 349,
+        "question": "At what stage does the body typically reach its physical peak in strength and endurance?",
+        "options": [
+            "Late adolescence",
+            "Early adulthood",
+            "Middle adulthood",
+            "Late adulthood"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 350,
+        "question": "Which cognitive development is emphasized during early adulthood?",
+        "options": [
+            "Abstract reasoning",
+            "Emotional intelligence",
+            "Practical and problem-solving skills",
+            "Memory retention"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 351,
+        "question": "What social and emotional development typically occurs during early adulthood?",
+        "options": [
+            "Increased reliance on family",
+            "Establishment of intimate relationships, career development, and family planning",
+            "Emotional detachment",
+            "Focus on self-awareness and solitude"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 352,
+        "question": "What physical changes occur during middle adulthood?",
+        "options": [
+            "Rapid weight gain",
+            "Increased muscle mass",
+            "Gradual decline in muscle mass, bone density, and skin elasticity",
+            "Improved coordination and flexibility"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 353,
+        "question": "What cognitive change is common in middle adulthood?",
+        "options": [
+            "Significant decline in memory",
+            "Complete loss of learning abilities",
+            "Stability in cognitive function with some decline in processing speed and memory",
+            "Emergence of new cognitive abilities"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 354,
+        "question": "What emotional development may occur during middle adulthood?",
+        "options": [
+            "Reassessment of life priorities and personal growth",
+            "Increased emotional dependency",
+            "Decreased emotional regulation",
+            "Focus on social acceptance"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 355,
+        "question": "What physical changes are common in late adulthood?",
+        "options": [
+            "Rapid muscle gain",
+            "Increased flexibility and stamina",
+            "Increased risk of chronic diseases and diminished sensory functions",
+            "Significant weight loss"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 356,
+        "question": "Which cognitive change may occur in late adulthood?",
+        "options": [
+            "Complete cognitive decline",
+            "Cognitive abilities remain at their peak",
+            "Slow learning and memory, with some maintaining function through mental stimulation",
+            "Complete loss of cognitive function"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 357,
+        "question": "What emotional focus is common in late adulthood?",
+        "options": [
+            "Pursuit of career goals",
+            "Reflection on life achievements and coping with retirement",
+            "Desire for social dominance",
+            "Focus on personal financial growth"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 358,
+        "question": "what happens during puberty in terms of hormonal changes",
+        "options": [
+            "The production of estrogen and progesterone decreases.",
+            "The body experiences significant hormonal changes triggering sexual maturity and physical development.",
+            "There is a decline in testosterone production.",
+            "Bone density increases rapidly."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 359,
+        "question": "what is a key characteristic of menopause in females",
+        "options": [
+            "Increased estrogen and progesterone production.",
+            "The onset of menstruation.",
+            "Decreased production of estrogen and progesterone, leading to the end of menstrual cycles.",
+            "Increased bone density."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 360,
+        "question": "what does andropause in males primarily involve",
+        "options": [
+            "A sudden increase in testosterone levels.",
+            "A gradual decline in testosterone, affecting mood, energy levels, and sexual function.",
+            "A significant rise in estrogen levels.",
+            "A sharp improvement in muscle mass."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 361,
+        "question": "at what point does bone density typically peak",
+        "options": [
+            "In childhood",
+            "In early adulthood",
+            "In late adulthood",
+            "In old age"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 362,
+        "question": "when does muscle mass generally peak",
+        "options": [
+            "In childhood",
+            "In early adulthood",
+            "In late adulthood",
+            "In middle age"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 363,
+        "question": "how does aging affect heart health",
+        "options": [
+            "The heart becomes more efficient with age.",
+            "Aging causes no changes to the heart's function.",
+            "The heart may become less efficient due to changes in the heart muscle and blood vessels.",
+            "There is an increase in heart rate with age."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 364,
+        "question": "how does aging affect the immune system",
+        "options": [
+            "The immune system becomes more efficient with age.",
+            "The immune system generally declines, leading to increased susceptibility to infections and slower recovery times.",
+            "There is no impact on immune function with age.",
+            "The immune system becomes more aggressive with age."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 365,
+        "question": "when does metabolic rate typically peak",
+        "options": [
+            "In late adulthood",
+            "In early adulthood",
+            "In childhood",
+            "In middle age"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 366,
+        "question": "what happens to the skin with age",
+        "options": [
+            "Skin gains elasticity and collagen.",
+            "Skin becomes smoother and more hydrated.",
+            "Skin loses collagen and elasticity, leading to wrinkles and dryness.",
+            "Skin becomes thicker and more resilient."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 367,
+        "question": "what sensory changes are common with aging",
+        "options": [
+            "An improvement in vision and hearing sensitivity.",
+            "A decline in visual acuity and hearing sensitivity.",
+            "Complete loss of hearing.",
+            "An increase in visual acuity and hearing sensitivity."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 368,
+        "question": "how does aging affect digestive efficiency",
+        "options": [
+            "Digestive efficiency increases with age.",
+            "Digestive efficiency decreases, leading to changes in digestion and nutrient absorption.",
+            "There is no effect on digestive efficiency with age.",
+            "Digestion becomes more efficient but nutrient absorption declines."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 369,
+        "question": "Which statement is true regarding brain usage?",
+        "options": [
+            "Only 10% of the brain is used.",
+            "We use all parts of the brain, but not all neurons are active at the same time.",
+            "Brain usage is limited to the frontal lobe.",
+            "The brain is not used during sleep."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 370,
+        "question": "Which of the following is an additional sense that humans have?",
+        "options": [
+            "Touch",
+            "Proprioception",
+            "Hearing",
+            "Sight"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 371,
+        "question": "How many liters of water should men and women generally consume daily, according to the Institute of Medicine?",
+        "options": [
+            "2.7 liters for men, 1.5 liters for women",
+            "3.7 liters for men, 2.7 liters for women",
+            "1.5 liters for both men and women",
+            "2.7 liters for both men and women"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 372,
+        "question": "What is the primary cause of weight gain?",
+        "options": [
+            "Eating late at night",
+            "A caloric surplus",
+            "Eating processed foods",
+            "Eating after exercise"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 373,
+        "question": "What causes the appearance of continued growth of hair and nails after death?",
+        "options": [
+            "Cells continue to divide.",
+            "The skin dehydrates and retracts.",
+            "The body is still active.",
+            "Hair follicles keep producing new hair."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 374,
+        "question": "Which organ is responsible for detoxification in the human body?",
+        "options": [
+            "Heart",
+            "Lungs",
+            "Liver",
+            "Stomach"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 375,
+        "question": "What is the main reason for avoiding touching baby birds?",
+        "options": [
+            "It may transfer harmful bacteria.",
+            "Birds can smell human scent and will reject the baby.",
+            "The birds will be stressed.",
+            "It causes injury to the baby bird."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 376,
+        "question": "What is the origin of the myth that eating carrots improves night vision?",
+        "options": [
+            "Vitamin A deficiency",
+            "Propaganda during World War II",
+            "A natural health belief",
+            "Research findings on vision"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 377,
+        "question": "Which factor is more influential in metabolism than eating small, frequent meals?",
+        "options": [
+            "Caloric intake and diet quality",
+            "Meal frequency",
+            "Time of day meals are eaten",
+            "Drinking cold water"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 378,
+        "question": "What contributes most to bone strength?",
+        "options": [
+            "Drinking milk",
+            "Regular physical activity",
+            "Genetics and overall diet",
+            "Taking calcium supplements"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 379,
+        "question": "How many bones do infants have at birth?",
+        "options": [
+            "206",
+            "250",
+            "270",
+            "300"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 380,
+        "question": "What is more likely to influence a child's behavior than sugar consumption?",
+        "options": [
+            "The environment and excitement",
+            "Lack of sleep",
+            "High protein intake",
+            "Sugar consumption alone"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 381,
+        "question": "Why does shaved hair appear thicker?",
+        "options": [
+            "Hair grows back faster",
+            "It is cut at a blunt angle",
+            "The hair follicles regenerate",
+            "Hormonal changes occur"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 382,
+        "question": "Why does the head seem to lose more heat?",
+        "options": [
+            "The brain needs more heat.",
+            "The head is often uncovered, leading to significant heat loss.",
+            "Blood flow is higher in the head.",
+            "The head has more fat than other areas."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 383,
+        "question": "Which of the following is the most accurate guideline for water intake?",
+        "options": [
+            "Drink 8 glasses a day regardless of other factors.",
+            "Hydration needs are the same for everyone.",
+            "Water intake needs depend on individual activity level, climate, and diet.",
+            "Only drink when thirsty."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 384,
+        "question": "What is important for maintaining optimal hydration?",
+        "options": [
+            "Only drinking when thirsty",
+            "Drinking water during meals",
+            "Proactively hydrating during hot weather or exercise",
+            "Drinking only water"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 385,
+        "question": "Which factor is primarily responsible for weight gain?",
+        "options": [
+            "Eating fat",
+            "Eating more calories than are burned",
+            "Eating late at night",
+            "Eating carbohydrates"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 386,
+        "question": "Which organ naturally detoxifies the body?",
+        "options": [
+            "Kidneys",
+            "Heart",
+            "Liver",
+            "Stomach"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 387,
+        "question": "What increases the likelihood of getting sick in cold weather?",
+        "options": [
+            "Wet hair",
+            "Weakening of the immune system",
+            "Cold air exposure",
+            "Dry skin"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 388,
+        "question": "When are you most likely to be contagious?",
+        "options": [
+            "When sneezing",
+            "When coughing",
+            "During the incubation period of an illness",
+            "Based on the type of illness and its stage"
+        ],
+        "answer": 4
+    },
+    {
+        "id": 389,
+        "question": "What is the most accurate statement about vitamin and mineral intake?",
+        "options": [
+            "You can only get enough vitamins and minerals from supplements.",
+            "Most people can obtain necessary vitamins and minerals from a well-balanced diet.",
+            "Taking supplements is always essential for good health.",
+            "A balanced diet doesn't provide sufficient vitamins and minerals."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 390,
+        "question": "Which of the following is true about eating patterns?",
+        "options": [
+            "Everyone should eat three large meals a day to stay healthy.",
+            "Eating patterns should be the same for everyone.",
+            "Some people may benefit from smaller, more frequent meals.",
+            "It's unhealthy to eat more than three meals a day."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 391,
+        "question": "What does recent research suggest about egg consumption and cholesterol levels?",
+        "options": [
+            "Eggs significantly increase cholesterol levels for everyone.",
+            "Moderate egg consumption does not significantly affect blood cholesterol for most people.",
+            "Eggs are harmful for people with high cholesterol levels.",
+            "Eggs raise cholesterol levels more than other foods."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 392,
+        "question": "Which of the following is the best approach for muscle building in bodybuilders?",
+        "options": [
+            "Consuming excessive amounts of protein leads to better muscle growth.",
+            "A balanced diet and proper exercise are key for muscle growth.",
+            "Muscle growth only occurs with protein supplements.",
+            "Eating more protein than the recommended amounts is essential for muscle building."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 393,
+        "question": "Which of the following is true about sleep requirements?",
+        "options": [
+            "Everyone needs exactly 8 hours of sleep each night for optimal health.",
+            "Sleep needs vary by individual and depend on age, lifestyle, and health factors.",
+            "People who sleep less than 8 hours a night are always unhealthy.",
+            "The body can only function properly with exactly 8 hours of sleep."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 394,
+        "question": "What is the most accurate statement about exercise and muscle growth?",
+        "options": [
+            "You must feel pain during exercise to see results.",
+            "Pain is a sign that you're pushing your body to the limit and always necessary.",
+            "Balanced exercise and proper recovery are key to muscle growth, not pain.",
+            "The more painful the exercise, the more effective it is for building muscle."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 395,
+        "question": "Which of the following is the best practice for facial skin care?",
+        "options": [
+            "Washing your face multiple times a day is essential for healthy skin.",
+            "Washing your face too frequently can lead to dryness and irritation.",
+            "The more you wash your face, the better your skin will look.",
+            "You should wash your face once a week for it to remain healthy."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 396,
+        "question": "What is true about natural or organic skin products?",
+        "options": [
+            "Natural products are always safer and more effective than synthetic ones.",
+            "Organic products can still cause allergic reactions or skin irritation, just like synthetic ones.",
+            "All natural skin products are free from harmful chemicals.",
+            "Organic products are always the best option for sensitive skin."
+        ],
+        "answer": 2
+    }
+]
